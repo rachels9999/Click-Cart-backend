@@ -1,0 +1,40 @@
+{
+    "products": [
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "price": 25,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSk9JeWjIMBrHDq9OAJDXlfJqV-vHRg8wmeY3bj7juPbr0VOFKHeZ4Y1OzMYMV3QGA-0MuKdScGUUSvpUxlmMubTKXmS_ovY1g6MOhg04bDUYbeBMOEthxN"
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 40,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2I4dIezBQZPBKWc0DyLALnTffONRuQnhJyWNOP5JoEn2rem56P0ogYNSor33hXoLNVIDhvWmnhUOnkTzbAyTVD6h8VXzOS3WY1DJHlz4Jrt1aGpxZcCi5AKNx9g6CqAvFIUoximI&usqp=CAc"
+    },
+    {
+      "id": 3,
+      "name": "Sneakers",
+      "price": 60,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsMUsTQHc1hlfJ43YKCviZQDAAVKG2PLsIvV1Chebxcy6q2Wnx3KYkVs1BKduR-JTrESzxlHJ721jt464ajYrcP2KPMR3TRN0TFeou8jeRo9Xds7boUPVa&usqp=CAc"
+    },
+   {
+      "id": 4,
+      "name": "Hoodie",
+      "price": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTkBPKUdtYPepsDdxWQFrSvcC2Mrw9icz_fgR09KSZaJmlF194WcCpTWvA3ikuSQHpYg4F90SZ5ExlKPowDd_Ir8B2uJD9R4n2w7iuF90Q"
+    },
+    {
+      "id": 5,
+      "name": "Lipstick",
+      "price": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqSuewOF-Of_MWn2InmirX122sBSwRmcgoA&s"
+    },
+    {
+      "id": 6,
+      "name": "SmartPhone",
+      "price": 70,
+      "image": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-15-Plus/Pink/Apple-iPhone-15-Plus-Pink-thumbnail.png"
+    }
+  ]
+}
